@@ -2,4 +2,4 @@
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
-| Wealthsimple| Intern – Software Development - Winter 2025 | Remote in USA     | Winter 2025     | [Apply](#)        | Sep 06      |
+| Sharp Decisions| Security Architect | Dallas-Fort Worth Metroplex     |      | [Apply](https://www.linkedin.com/jobs/view/4018414774)        | Sep 06      |
