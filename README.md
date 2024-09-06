@@ -2,7 +2,7 @@
 
 Welcome to the Security Jobs Repository! Here, we track full-time security roles and internships for new graduates and students in cybersecurity, security research, and related fields.
 
-This list is maintained by the community and is focused on roles in the USA, and Remote 🌎.
+This list is maintained by the community and is focused on roles in the USA, and Remote 🌎
 
 💼 Contribute by submitting an issue or pull request!
 
