@@ -12,3 +12,5 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 | Peraton| Cyber Threat Analyst | Linthicum, MD     |      | [Apply](https://careers.peraton.com/jobs/cyber-threat-analyst-linthicum-maryland-149994-jobs?iis=Job%2BBoard&iisn=LinkedIn)        | Sep 06      |
 | SPS| Network and Security Engineer | New York City Metropolitan Area     |      | [Apply](https://job-boards.greenhouse.io/spsnorthamerica/jobs/4095440008)        | Sep 06      |
 | Microsoft| Applied Scientist II- Web Security Research | Redmond, Washington, United States + 1 more location     |      | [Apply](https://jobs.careers.microsoft.com/global/en/job/1764202/Applied-Scientist-II--Web-Security-Research)        | Sep 04      |
+| Lyft| Security Engineer - Application Security | Mexico City, Mexico     |      | [Apply](https://app.careerpuck.com/job-board/lyft/job/7505582002?gh_jid=7505582002)        |       |
+| Lyft| Staff Privacy Analyst | San Francisco, CA  |      | [Apply](https://app.careerpuck.com/job-board/lyft/job/7100473002?gh_jid=7100473002)        |       |
