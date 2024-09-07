@@ -13,6 +13,8 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 | SPS| Network and Security Engineer | New York City Metropolitan Area     |      | [Apply](https://job-boards.greenhouse.io/spsnorthamerica/jobs/4095440008)        | Sep 06      |
 | Microsoft| Applied Scientist II- Web Security Research | Redmond, Washington, United States + 1 more location     |      | [Apply](https://jobs.careers.microsoft.com/global/en/job/1764202/Applied-Scientist-II--Web-Security-Research)        | Sep 04      |
 | Hashcorp| Product Security Engineer Programs Team | Remote United States     |      | [Apply](https://www.hashicorp.com/career/6001526?gh_src=e263d6a71)        | Sep 06      |
+| Lyft| Security Engineer - Application Security | Mexico City, Mexico     |      | [Apply](https://app.careerpuck.com/job-board/lyft/job/7505582002?gh_jid=7505582002)        |       |
+| Lyft| Staff Privacy Analyst | San Francisco, CA  |      | [Apply](https://app.careerpuck.com/job-board/lyft/job/7100473002?gh_jid=7100473002)        |       |
 | Grammarly| Security Engineer Security Intelligence | Hybrid United States     |      | [Apply](https://www.grammarly.com/jobs/engineering/security-engineer-security-intelligence?gh_jid=6208831)        |
 | Grammarly| Security Engineer Product Security | Hybrid United States     |      | [Apply](https://www.grammarly.com/jobs/engineering/security-engineer-product-security?gh_jid=5669722)        |
 
