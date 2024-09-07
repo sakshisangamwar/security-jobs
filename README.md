@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| Exelon| Cybersecurity | Various Exelon Locations |  Summer 2025    | [Apply](https://jobs.exeloncorp.com/jobs/14890481-2025-summer-internship-cyber-security-various-exelon-locations)        | Sep 06      |
 | Cboe Global Markets| Cybersecurity Threat Management Intern | New York, NY     |  Summer 2025    | [Apply](https://careers.cboe.com/us/en/job/CBJCGMUSR3687EXTERNALENUS/Cybersecurity-Threat-Management-Intern?utm_source=linkedin&utm_medium=phenom-feeds)        | Sep 06      |
 | Sharp Decisions| Security Architect | Dallas-Fort Worth Metroplex     |      | [Apply](https://www.linkedin.com/jobs/view/4018414774)        | Sep 06      |
 | Peraton| Cyber Threat Analyst | Linthicum, MD     |      | [Apply](https://careers.peraton.com/jobs/cyber-threat-analyst-linthicum-maryland-149994-jobs?iis=Job%2BBoard&iisn=LinkedIn)        | Sep 06      |
