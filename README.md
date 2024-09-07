@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| Gulfstream Aerospace| IT System Risk Analyst Intern | Savannah, GA |  Fall 2024    | [Apply](https://careers.gulfstream.com/job/Savannah-Fall-2024-IT-System-Risk-Analyst-Intern-GA-31401/1210582000/)        | Sep 06      |
 | Entegris| Threat Analyst Co-Op | Billerica, MA |  Spring 2025    | [Apply](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Threat-Analyst-Co-Op_REQ-7119?mode=job&iis=JobBoard&iisn=LinkedIn)        | Sep 06      |
 | Exelon| Cybersecurity | Various Exelon Locations |  Summer 2025    | [Apply](https://jobs.exeloncorp.com/jobs/14890481-2025-summer-internship-cyber-security-various-exelon-locations)        | Sep 06      |
 | Cboe Global Markets| Cybersecurity Threat Management Intern | New York, NY     |  Summer 2025    | [Apply](https://careers.cboe.com/us/en/job/CBJCGMUSR3687EXTERNALENUS/Cybersecurity-Threat-Management-Intern?utm_source=linkedin&utm_medium=phenom-feeds)        | Sep 06      |
