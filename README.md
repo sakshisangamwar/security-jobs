@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| Prosum| Security Engineer | Cypress, CA |    | [Apply](https://www.linkedin.com/jobs/view/4017397272/?alternateChannel=search&refId=vkTdYHGKuLqMNndWZGRx%2Fg%3D%3D&trackingId=jb3FzXfgXl%2B3y53g%2BkA8lA%3D%3D)        | Sep 06      |
 | Gulfstream Aerospace| IT System Risk Analyst Intern | Savannah, GA |  Fall 2024    | [Apply](https://careers.gulfstream.com/job/Savannah-Fall-2024-IT-System-Risk-Analyst-Intern-GA-31401/1210582000/)        | Sep 06      |
 | Entegris| Threat Analyst Co-Op | Billerica, MA |  Spring 2025    | [Apply](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Threat-Analyst-Co-Op_REQ-7119?mode=job&iis=JobBoard&iisn=LinkedIn)        | Sep 06      |
 | Exelon| Cybersecurity | Various Exelon Locations |  Summer 2025    | [Apply](https://jobs.exeloncorp.com/jobs/14890481-2025-summer-internship-cyber-security-various-exelon-locations)        | Sep 06      |
