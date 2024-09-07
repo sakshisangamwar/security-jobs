@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| Entegris| Threat Analyst Co-Op | Billerica, MA |  Spring 2025    | [Apply](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Threat-Analyst-Co-Op_REQ-7119?mode=job&iis=JobBoard&iisn=LinkedIn)        | Sep 06      |
 | Exelon| Cybersecurity | Various Exelon Locations |  Summer 2025    | [Apply](https://jobs.exeloncorp.com/jobs/14890481-2025-summer-internship-cyber-security-various-exelon-locations)        | Sep 06      |
 | Cboe Global Markets| Cybersecurity Threat Management Intern | New York, NY     |  Summer 2025    | [Apply](https://careers.cboe.com/us/en/job/CBJCGMUSR3687EXTERNALENUS/Cybersecurity-Threat-Management-Intern?utm_source=linkedin&utm_medium=phenom-feeds)        | Sep 06      |
 | Sharp Decisions| Security Architect | Dallas-Fort Worth Metroplex     |      | [Apply](https://www.linkedin.com/jobs/view/4018414774)        | Sep 06      |
