@@ -17,4 +17,5 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 | Hashcorp| Product Security Engineer Programs Team | Remote United States     |      | [Apply](https://www.hashicorp.com/career/6001526?gh_src=e263d6a71)        | Sep 06      |
 | Grammarly| Security Engineer Security Intelligence | Hybrid United States     |      | [Apply](https://www.grammarly.com/jobs/engineering/security-engineer-security-intelligence?gh_jid=6208831)        |
 | Grammarly| Security Engineer Product Security | Hybrid United States     |      | [Apply](https://www.grammarly.com/jobs/engineering/security-engineer-product-security?gh_jid=5669722)        |
+| Cohesity| Staff Security Software Engineer - Platform Security(Application Security, Vulnerability Management, Threat modeling, and Threat Management Systems) | San Jose, CA |      | [Apply]([https://www.grammarly.com/jobs/engineering/security-engineer-product-security?gh_jid=5669722](https://www.linkedin.com/jobs/view/4009698415/?alternateChannel=search&refId=fv0Hnd6mt5dud4VoCtWq0Q%3D%3D&trackingId=7BmjKJlF7t7LxWGczZ0FUA%3D%3D))        |
 
