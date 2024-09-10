@@ -8,8 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
-| Bilt Rewards| Security Engineer
-| United States |    | [Apply](https://job-boards.greenhouse.io/biltrewards/jobs/5143491004?gh_src=534d41e54us)        |      |
+| Bilt Rewards| Security Engineer| United States |    | [Apply](https://job-boards.greenhouse.io/biltrewards/jobs/5143491004?gh_src=534d41e54us)        |      |
 | Varonis| Commercial Security Analyst| United States |    | [Apply](https://careers.varonis.com/careers?p=job%2FoKYlufwh%2Fapply&jvs=LinkedInLimited&jvk=Apply&jvi=oKYlufwh,Apply&j=oKYlufwh&__jvst=Job%20Board&__jvsd=LinkedInLimited&nl=1)        | Sep 07     |
 | Google| Privacy Engineer III, Google Workspace and Education | Various Locations |    | [Apply](https://www.google.com/about/careers/applications/u/4/jobs/results/143492436276978374-privacy-engineer-iii-google-workspace-and-education?q=privacy%20engineer)        | Sep 06      |
 | Google| Privacy Engineer II, Global Business Organization | San Francisco, CA |    | [Apply](https://www.google.com/about/careers/applications/jobs/results/134922379062059718-privacy-engineer-ii/?src=Online/LinkedIn/linkedin_us&utm_source=linkedin&utm_medium=jobposting&utm_campaign=contract)        | Sep 06      |
