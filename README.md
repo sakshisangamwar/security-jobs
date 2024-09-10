@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| M.C. Dean, Inc.| Security Systems Design Engineer | Phoenix, AZ |    | [Apply](https://phg.tbe.taleo.net/phg04/ats/careers/v2/viewRequisition?org=MCDEAN&source=LinkedIn&rid=12200&cws=62&src=LinkedIn&gns=LinkedIn)        |      |
 | Bilt Rewards| Security Engineer| United States |    | [Apply](https://job-boards.greenhouse.io/biltrewards/jobs/5143491004?gh_src=534d41e54us)        |      |
 | Varonis| Commercial Security Analyst| United States |    | [Apply](https://careers.varonis.com/careers?p=job%2FoKYlufwh%2Fapply&jvs=LinkedInLimited&jvk=Apply&jvi=oKYlufwh,Apply&j=oKYlufwh&__jvst=Job%20Board&__jvsd=LinkedInLimited&nl=1)        | Sep 07     |
 | Google| Privacy Engineer III, Google Workspace and Education | Various Locations |    | [Apply](https://www.google.com/about/careers/applications/u/4/jobs/results/143492436276978374-privacy-engineer-iii-google-workspace-and-education?q=privacy%20engineer)        | Sep 06      |
