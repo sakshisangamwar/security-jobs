@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| BlueVoyant| ROC Risk Analyst I | United States |   | [Apply](https://www.linkedin.com/jobs/view/4023632894) | Sep 11   |
 | Federal Express Corporation| Cyber Security Analyst | Memphis, TN  |   | [Apply](https://careers.fedex.com/cyber-security-analyst/job/P25-139269-2?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_jb&utm_subco=FECNA) | Sep 11   |
 | Calyptus| Protocol Engineer | New York, United States  |   | [Apply](https://www.linkedin.com/jobs/view/4023600966) | Sep 11   |
 | Sophos| Threat Analyst 1 | United States  |   | [Apply](https://www.linkedin.com/jobs/view/4022125636) | Sep 10     |
