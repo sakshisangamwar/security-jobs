@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| Match Group| Application Security Engineer II (Remote) | Dallas, TX |   | [Apply](https://jobs.lever.co/matchgroup/50c35abf-d73b-4fde-9a45-e6bf74d40e71/apply)        | Sep 10     |
 | Merck| 2025 University Recruiting - Cyber Security Analyst Summer Intern  | Rahway, NJ | Summer 2025   | [Apply](https://jobs.merck.com/us/en/job/MERCUSR305641ENUS/2025-University-Recruiting-Cyber-Security-Analyst-Summer-Intern?utm_source=linkedin&utm_medium=phenom-feeds)        | Sep 10     |
 | M.C. Dean, Inc.| Security Systems Design Engineer | Phoenix, AZ |    | [Apply](https://phg.tbe.taleo.net/phg04/ats/careers/v2/viewRequisition?org=MCDEAN&source=LinkedIn&rid=12200&cws=62&src=LinkedIn&gns=LinkedIn)        |      |
 | Bilt Rewards| Security Engineer| United States |    | [Apply](https://job-boards.greenhouse.io/biltrewards/jobs/5143491004?gh_src=534d41e54us)        |      |
