@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| Sophos| Threat Analyst 1 | United States  |   | [Apply](https://www.linkedin.com/jobs/view/4022125636) | Sep 10     |
 | Macquarie Group| Data and Security Engineer | Houston, TX  |   | [Apply](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=12205&source=LinkedIn.com#) | Sep 10     |
 | Match Group| Application Security Engineer II (Remote) | Dallas, TX |   | [Apply](https://jobs.lever.co/matchgroup/50c35abf-d73b-4fde-9a45-e6bf74d40e71/apply)        | Sep 10     |
 | Merck| 2025 University Recruiting - Cyber Security Analyst Summer Intern  | Rahway, NJ | Summer 2025   | [Apply](https://jobs.merck.com/us/en/job/MERCUSR305641ENUS/2025-University-Recruiting-Cyber-Security-Analyst-Summer-Intern?utm_source=linkedin&utm_medium=phenom-feeds)        | Sep 10     |
