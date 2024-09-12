@@ -8,6 +8,7 @@ This list is maintained and is focused on roles in the USA, and Remote 🌎
 
 | Company                              | Role                                     | Location          | Terms           | Application/Link   | Date Posted |
 |--------------------------------------|------------------------------------------|-------------------|-----------------|-------------------|-------------|
+| Microsoft| Security Engineer- Open Source Security Assurance | United States |   | [Apply](https://jobs.careers.microsoft.com/us/en/job/1731087/Security-Engineer-Open-Source-Security-Assurance?jobsource=linkedin) | Sep 12   |
 | Fortanix| System Security Engineer (EMEA) | United States |   | [Apply](https://www.linkedin.com/jobs/view/4023706382) | Sep 12   |
 | Octaura| Security Engineer | New York, NY  |   | [Apply](https://job-boards.greenhouse.io/octaura/jobs/4204689007?gh_src=5f2d5b297us) | Sep 12   |
 | Ascendion| Information Security Engineer  | Sacramento, CA |   | [Apply](https://ascendion.com/join-us/careers/career-detail/?post=330554&refid=col_linkedin) | Sep 11   |
